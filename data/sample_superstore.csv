@@ -1,0 +1,53 @@
+Order ID,Date,Product,Category,Quantity,Unit Price,Sales,Customer,City,Region
+ORD-1001,2024-01-15,MacBook Pro 16,Electronics,2,2499.00,4998.00,TechCorp Solutions,New York,East
+ORD-1002,2024-01-18,Ergonomic Chair,Furniture,4,299.50,1198.00,Apex Innovations,Chicago,Central
+ORD-1003,2024-01-20,Wireless Mouse,Electronics,10,29.99,299.90,Global Logistics,Seattle,West
+ORD-1004,2024-01-22,Standing Desk,Furniture,1,650.00,650.00,BioHealth Inc,Boston,East
+ORD-1005,2024-01-25,LaserJet Printer,Office Supplies,2,380.00,760.00,Zenith Media,Austin,South
+ORD-1006,2024-01-28,Noise-Cancelling Headphones,Electronics,5,199.99,999.95,CloudNine Software,San Francisco,West
+ORD-1007,2024-02-02,Mechanical Keyboard,Electronics,8,129.50,1036.00,Apex Innovations,Chicago,Central
+ORD-1008,2024-02-05,Premium Notebooks (10-Pack),Office Supplies,15,19.99,299.85,TechCorp Solutions,New York,East
+ORD-1009,2024-02-08,4K Ultra HD Monitor,Electronics,3,450.00,1350.00,Vanguard Partners,Denver,West
+ORD-1010,2024-02-12,Filing Cabinet,Furniture,2,185.00,370.00,Horizon Energy,Houston,South
+ORD-1011,2024-02-14,USB-C Hub Multiport,Electronics,12,45.00,540.00,BioHealth Inc,Boston,East
+ORD-1012,2024-02-18,Executive Leather Chair,Furniture,2,499.00,998.00,Pinnacle Advisory,Atlanta,South
+ORD-1013,2024-02-22,MacBook Pro 16,Electronics,1,2499.00,2499.00,Starlight Studio,Los Angeles,West
+ORD-1014,2024-02-26,Ballpoint Pens (Box of 50),Office Supplies,25,12.50,312.50,Zenith Media,Austin,South
+ORD-1015,2024-03-01,Standing Desk,Furniture,3,650.00,1950.00,TechCorp Solutions,New York,East
+ORD-1016,2024-03-04,Smart Projector,Electronics,1,1200.00,1200.00,Global Logistics,Seattle,West
+ORD-1017,2024-03-07,Wireless Mouse,Electronics,6,29.99,179.94,CloudNine Software,San Francisco,West
+ORD-1018,2024-03-10,Desk Lamp LED,Furniture,8,45.00,360.00,Horizon Energy,Houston,South
+ORD-1019,2024-03-12,Enterprise Server Rack,Electronics,5,9800.00,49000.00,MegaCorp Defense,Dallas,South
+ORD-1020,2024-03-15,LaserJet Printer,Office Supplies,3,380.00,1140.00,Apex Innovations,Chicago,Central
+ORD-1021,2024-03-18,Mechanical Keyboard,Electronics,4,129.50,518.00,Vanguard Partners,Denver,West
+ORD-1022,2024-03-22,Ergonomic Chair,Furniture,5,299.50,1497.50,BioHealth Inc,,East
+ORD-1023,2024-03-25,Noise-Cancelling Headphones,Electronics,3,199.99,599.97,,New York,East
+ORD-1024,2024-03-28,Premium Notebooks (10-Pack),Office Supplies,,19.99,399.80,Pinnacle Advisory,Atlanta,South
+ORD-1025,2024-04-02,MacBook Pro 16,Electronics,3,2499.00,7497.00,CloudNine Software,San Francisco,West
+ORD-1026,2024-04-05,USB-C Hub Multiport,Electronics,20,45.00,900.00,Apex Innovations,Chicago,Central
+ORD-1027,2024-04-08,Filing Cabinet,Furniture,4,185.00,740.00,TechCorp Solutions,New York,East
+ORD-1028,2024-04-12,4K Ultra HD Monitor,Electronics,6,450.00,2700.00,Global Logistics,Seattle,West
+ORD-1029,2024-04-15,Ballpoint Pens (Box of 50),Office Supplies,30,12.50,375.00,Horizon Energy,Houston,South
+ORD-1030,2024-04-18,Executive Leather Chair,Furniture,1,499.00,499.00,Zenith Media,Austin,South
+ORD-1031,2024-04-21,Desk Lamp LED,Furniture,5,45.00,225.00,Vanguard Partners,Denver,West
+ORD-1032,2024-04-25,Smart Projector,Electronics,2,1200.00,2400.00,Starlight Studio,Los Angeles,West
+ORD-1033,2024-04-28,Standing Desk,Furniture,2,650.00,1300.00,BioHealth Inc,Boston,East
+ORD-1034,2024-05-02,MacBook Pro 16,Electronics,4,2499.00,9996.00,MegaCorp Defense,Dallas,South
+ORD-1035,2024-05-05,Wireless Mouse,Electronics,15,29.99,449.85,Pinnacle Advisory,Atlanta,South
+ORD-1036,2024-05-08,LaserJet Printer,Office Supplies,1,380.00,380.00,CloudNine Software,San Francisco,West
+ORD-1037,2024-05-12,Ergonomic Chair,Furniture,6,299.50,1797.00,Apex Innovations,Chicago,Central
+ORD-1038,2024-05-15,Mechanical Keyboard,Electronics,10,129.50,1295.00,TechCorp Solutions,New York,East
+ORD-1039,2024-05-18,Noise-Cancelling Headphones,Electronics,4,199.99,799.96,Global Logistics,Seattle,West
+ORD-1040,2024-05-22,Filing Cabinet,Furniture,3,185.00,555.00,Zenith Media,Austin,South
+ORD-1041,2024-05-25,4K Ultra HD Monitor,Electronics,5,450.00,2250.00,BioHealth Inc,Boston,East
+ORD-1042,2024-05-28,Standing Desk,Furniture,4,650.00,2600.00,Horizon Energy,Houston,South
+ORD-1043,2024-06-02,USB-C Hub Multiport,Electronics,18,45.00,810.00,Starlight Studio,Los Angeles,West
+ORD-1044,2024-06-05,Premium Notebooks (10-Pack),Office Supplies,20,19.99,399.80,Vanguard Partners,Denver,West
+ORD-1045,2024-06-08,Executive Leather Chair,Furniture,3,499.00,1497.00,MegaCorp Defense,Dallas,South
+ORD-1046,2024-06-12,Desk Lamp LED,Furniture,7,45.00,315.00,Pinnacle Advisory,Atlanta,South
+ORD-1047,2024-06-15,MacBook Pro 16,Electronics,2,2499.00,4998.00,Apex Innovations,Chicago,Central
+ORD-1048,2024-06-18,Smart Projector,Electronics,1,1200.00,1200.00,CloudNine Software,San Francisco,West
+ORD-1049,2024-06-22,Wireless Mouse,Electronics,8,29.99,239.92,TechCorp Solutions,New York,East
+ORD-1050,2024-06-25,Ballpoint Pens (Box of 50),Office Supplies,40,12.50,500.00,Global Logistics,Seattle,West
+ORD-1015,2024-03-01,Standing Desk,Furniture,3,650.00,1950.00,TechCorp Solutions,New York,East
+ORD-1035,2024-05-05,Wireless Mouse,Electronics,15,29.99,449.85,Pinnacle Advisory,Atlanta,South

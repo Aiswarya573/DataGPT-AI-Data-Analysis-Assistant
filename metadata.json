@@ -1,0 +1,8 @@
+{
+  "name": "DataGPT – AI-Powered Data Analysis Assistant",
+  "description": "Production-ready AI Data Analyst to upload CSV/Excel datasets, perform automated profiling and quality checks, answer complex questions with verified computations, generate Plotly visualizations, execute SQL queries, and uncover data-driven insights and recommendations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

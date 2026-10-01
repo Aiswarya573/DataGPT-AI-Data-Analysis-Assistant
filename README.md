@@ -8,7 +8,7 @@
 
 ---
 
-## 🚩 Problem Statement
+##  Problem Statement
 
 Data analysis in modern organizations remains bottlenecked:
 1. **Spreadsheet Overload:** Business users struggle to quickly diagnose anomalies, compute cross-dimensional aggregations, or write complex formulas across thousands of rows.
@@ -18,7 +18,7 @@ Data analysis in modern organizations remains bottlenecked:
 
 ---
 
-## 💡 Solution
+##  Solution
 
 DataGPT solves this through a **Hybrid AI + Local Computational Engine**:
 - **Zero Hallucination Guarantee:** The AI model is strictly used to parse natural language intent. The actual mathematical aggregations are executed locally in verified Pandas and SQLite engines.
@@ -28,22 +28,22 @@ DataGPT solves this through a **Hybrid AI + Local Computational Engine**:
 
 ---
 
-## 🌟 Key Features
+##  Key Features
 
 | Feature | Description |
 | :--- | :--- |
-| **📁 Smart File Ingestion** | Upload `.csv`, `.xlsx`, or `.xls` up to 50MB with instant type classification (numerical, categorical, date). |
-| **🛡️ Data Quality Audit** | Detects missing values, duplicates, constant columns, and computes a comprehensive Data Quality Score (0–100). |
-| **💬 Ask Data (Conversational AI)** | Multi-turn chat interface with memory, suggested prompts, transparent calculation steps, and Plotly charts. |
-| **🤖 Data Analyst Mode** | One-click automated deep-dive revealing top performers, temporal trends, anomalies, and findings vs. recommendations. |
-| **🔍 Explore Data** | Point-and-click slicing and dicing (columns, aggregations, group-by, custom query filters) with instant export. |
-| **🕵️‍♂️ SQL Detective** | Natural language to SQL translation with an in-memory SQLite sandbox restricted to safe, read-only analytical queries. |
-| **📈 Statistical Anomaly Detector** | Interquartile Range (1.5x IQR) and Z-Score (>3.0) outlier detection with sample inspection. |
-| **✨ Non-Destructive Cleaning** | Generates cleaned copies (duplicate removal, intelligent median/mode imputation) without mutating source data. |
+| ** Smart File Ingestion** | Upload `.csv`, `.xlsx`, or `.xls` up to 50MB with instant type classification (numerical, categorical, date). |
+| ** Data Quality Audit** | Detects missing values, duplicates, constant columns, and computes a comprehensive Data Quality Score (0–100). |
+| ** Ask Data (Conversational AI)** | Multi-turn chat interface with memory, suggested prompts, transparent calculation steps, and Plotly charts. |
+| ** Data Analyst Mode** | One-click automated deep-dive revealing top performers, temporal trends, anomalies, and findings vs. recommendations. |
+| ** Explore Data** | Point-and-click slicing and dicing (columns, aggregations, group-by, custom query filters) with instant export. |
+| ** SQL Detective** | Natural language to SQL translation with an in-memory SQLite sandbox restricted to safe, read-only analytical queries. |
+| ** Statistical Anomaly Detector** | Interquartile Range (1.5x IQR) and Z-Score (>3.0) outlier detection with sample inspection. |
+| ** Non-Destructive Cleaning** | Generates cleaned copies (duplicate removal, intelligent median/mode imputation) without mutating source data. |
 
 ---
 
-## 🏗️ Technology Stack & Architecture
+##  Technology Stack & Architecture
 
 - **Frontend & Orchestration:** Streamlit (Python)
 - **Data Engineering:** Pandas & NumPy
@@ -65,7 +65,7 @@ Human Answer ◄── [LLM Synthesis] ◄── [Local Computation Result]
 
 ---
 
-## 🚀 Quickstart & Local Installation
+##  Quickstart & Local Installation
 
 ### 1. Clone the repository
 ```bash
@@ -102,7 +102,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## ☁️ Deployment on Streamlit Community Cloud
+##  Deployment on Streamlit Community Cloud
 
 1. Push your repository to **GitHub**.
 2. Visit [share.streamlit.io](https://share.streamlit.io) and log in.
@@ -115,7 +115,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 🔒 Security & Guardrails
+##  Security & Guardrails
 
 - **Zero Arbitrary Code Execution:** The LLM does NOT execute arbitrary Python strings (`exec` / `eval` are banned).
 - **SQL Injection Prevention:** SQL queries are sanitized to strictly permit `SELECT` and `WITH` statements, rejecting destructive keywords (`DROP`, `DELETE`, `UPDATE`, `ALTER`, `TRUNCATE`).
@@ -123,7 +123,7 @@ Open [http://localhost:8501](http://localhost:8501) in your browser.
 
 ---
 
-## 🔮 Future Improvements
+##  Future Improvements
 
 - Automated PDF / Executive PowerPoint report exporter.
 - Multi-table relational joins across multiple uploaded files.

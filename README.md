@@ -45,6 +45,8 @@ Insights
 ↓
 Recommendations
 
+Live URL:https://ais-dev-e6ny7h4vj4ahi7hguxfpxz-87049187301.asia-southeast1.run.app
+
 ## How to Run
 
 pip install -r requirements.txt
